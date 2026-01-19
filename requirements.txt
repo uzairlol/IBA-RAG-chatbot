@@ -1,0 +1,10 @@
+pypdf
+numpy
+faiss-cpu
+sentence-transformers
+python-dotenv
+groq
+streamlit
+beautifulsoup4
+rank_bm25
+langchain-text-splitters
